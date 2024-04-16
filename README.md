@@ -18,6 +18,6 @@ Endpoints:
 * [https://docs-scheduler.biatec.io](https://docs-scheduler.biatec.io) - Documentation
 * [https://www.biatec.io](https://www.biatec.io) - List of all of our products - Concentrated liquidity AMM DEX, Aramid bridge,  Vote Coin, AWallet, Accounting services ...&#x20;
 
-\
+**Disclaimer**: Biatec scheduler is quite new product (launched April 2024) and may still contain errors or the future versions may not be compatible with the older versions. Always check the generated smart contract source code if it is compliant with your intended use. YOU are responsible for any and all actions you do, noone else is liable. You may loose money using this service if not configured properly. Remember that with great power comes great responsibility, your keys, your security, your crypto.\
 
 
