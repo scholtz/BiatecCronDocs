@@ -3,6 +3,7 @@
 ## Biatec
 
 * [Biatec Scheduler](README.md)
+* [Fees](biatec/fees.md)
 * [Executors](biatec/executors.md)
 * [xGov grant](biatec/xgov-grant.md)
 
