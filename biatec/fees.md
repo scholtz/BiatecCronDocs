@@ -26,6 +26,18 @@ Network fees: 0,003 algo
 
 Delete task fee consists of paying execution funds back to the creator of the task.
 
+### Deposit fee
+
+We charge you service fee 1% of the deposits. If you deposit 1 gram of gold for execution fees, you will have available 0.99 gold grams. (Also available for withdrawal)
+
+Network fee for deposit is 0,001 algo.
+
+### Withdrawal of execution fees
+
+There is no service fee associated with withdrawal of the execution fees.
+
+Network fee for deposit is 0,002 algo.
+
 ### Execution fee
 
 Execution fee is paid in tokenized gold. If the selected fee is too low, the executors will not execute the tasks.
